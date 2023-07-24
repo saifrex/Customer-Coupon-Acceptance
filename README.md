@@ -34,7 +34,7 @@ The dataset contains various attributes related to users, contextual factors, an
      
 3. Coupon attributes:
    - Time before it expires: 2 hours or one day
-   - 
+
 ## Deliverables
 The deliverables for this analysis includes:
 
